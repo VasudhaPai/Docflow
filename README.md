@@ -127,6 +127,13 @@ npm run start
 npm run ai-service
 ```
 
+You can run all backend-related processes at once from the `backend/` folder:
+
+```bash
+npm install
+npm run start-all
+```
+
 Frontend:
 
 ```bash
